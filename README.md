@@ -37,3 +37,5 @@ I'm proficient across all major operating systems (macOS, Linux, and Windows) an
   <img src="https://img.shields.io/badge/web%20dev-fcc624?style=for-the-badge&logo=javascript&logoColor=white&labelColor=black" alt="Web Dev"/>
 </p>
 
+---
+> "Talk is cheap. Show me the code." – *Linus Torvalds*
