@@ -38,4 +38,4 @@ I'm proficient across all major operating systems (macOS, Linux, and Windows) an
 </p>
 
 ---
-> "Talk is cheap. Show me the code." – *Linus Torvalds*
+"Talk is cheap. Show me the code." – *Linus Torvalds*
